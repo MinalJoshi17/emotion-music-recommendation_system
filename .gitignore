@@ -1,0 +1,30 @@
+# Ignore Python virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# MacOS junk
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment variables
+.env
+.env.*
+
+# Ignore system files
+Thumbs.db
